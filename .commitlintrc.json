@@ -3,7 +3,7 @@
   "rules": {
     "scope-enum": [
       2,
-      "always",
+      "25always",
       [
         "electron",
         "server",
